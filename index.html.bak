@@ -8,13 +8,14 @@
 
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
-
+<<<<<<< HEAD
 <p>This line is here to show how merging works,error fix example.</p>
-
+=======
 <div><img src="surf.jpg" alt="Hello World from Space"
     style="width:100%;max-width:960px"></div>
 <p>A new line in our file!</p>
 <div><img src="surf2.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
+>>>>>>> images
 </body>
 </html>
